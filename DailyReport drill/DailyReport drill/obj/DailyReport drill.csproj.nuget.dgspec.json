@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dagma\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReport drill\\DailyReport drill\\DailyReport drill.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dagma\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReport drill\\DailyReport drill\\DailyReport drill.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dagma\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReport drill\\DailyReport drill\\DailyReport drill.csproj",
+        "projectName": "DailyReport drill",
+        "projectPath": "C:\\Users\\dagma\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReport drill\\DailyReport drill\\DailyReport drill.csproj",
+        "packagesPath": "C:\\Users\\dagma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dagma\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\DailyReport drill\\DailyReport drill\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dagma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

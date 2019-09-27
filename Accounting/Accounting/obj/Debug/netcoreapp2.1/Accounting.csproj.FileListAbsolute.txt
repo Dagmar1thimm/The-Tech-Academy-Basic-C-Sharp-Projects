@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.pdb
