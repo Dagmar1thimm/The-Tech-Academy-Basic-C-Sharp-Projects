@@ -1,0 +1,10 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp2.1\DoWhileLoop.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp2.1\DoWhileLoop.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp2.1\DoWhileLoop.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp2.1\DoWhileLoop.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp2.1\DoWhileLoop.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp2.1\DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp2.1\DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp2.1\DoWhileLoop.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp2.1\DoWhileLoop.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp2.1\DoWhileLoop.pdb
