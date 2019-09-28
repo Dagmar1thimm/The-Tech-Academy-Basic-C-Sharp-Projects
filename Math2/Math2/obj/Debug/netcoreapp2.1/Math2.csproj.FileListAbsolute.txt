@@ -1,0 +1,10 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\bin\Debug\netcoreapp2.1\Math2.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\bin\Debug\netcoreapp2.1\Math2.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\bin\Debug\netcoreapp2.1\Math2.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\bin\Debug\netcoreapp2.1\Math2.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\bin\Debug\netcoreapp2.1\Math2.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\obj\Debug\netcoreapp2.1\Math2.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\obj\Debug\netcoreapp2.1\Math2.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\obj\Debug\netcoreapp2.1\Math2.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\obj\Debug\netcoreapp2.1\Math2.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math2\Math2\obj\Debug\netcoreapp2.1\Math2.pdb
