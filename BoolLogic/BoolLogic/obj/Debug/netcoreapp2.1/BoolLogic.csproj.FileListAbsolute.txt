@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\obj\Debug\netcoreapp2.1\BoolLogic.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\obj\Debug\netcoreapp2.1\BoolLogic.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\obj\Debug\netcoreapp2.1\BoolLogic.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\obj\Debug\netcoreapp2.1\BoolLogic.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\bin\Debug\netcoreapp2.1\BoolLogic.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\bin\Debug\netcoreapp2.1\BoolLogic.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\bin\Debug\netcoreapp2.1\BoolLogic.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\bin\Debug\netcoreapp2.1\BoolLogic.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\bin\Debug\netcoreapp2.1\BoolLogic.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\obj\Debug\netcoreapp2.1\BoolLogic.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolLogic\BoolLogic\obj\Debug\netcoreapp2.1\BoolLogic.pdb
