@@ -1,0 +1,10 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\bin\Debug\netcoreapp2.1\Stringv1.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\bin\Debug\netcoreapp2.1\Stringv1.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\bin\Debug\netcoreapp2.1\Stringv1.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\bin\Debug\netcoreapp2.1\Stringv1.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\bin\Debug\netcoreapp2.1\Stringv1.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\obj\Debug\netcoreapp2.1\Stringv1.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\obj\Debug\netcoreapp2.1\Stringv1.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\obj\Debug\netcoreapp2.1\Stringv1.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\obj\Debug\netcoreapp2.1\Stringv1.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Stringv1\Stringv1\obj\Debug\netcoreapp2.1\Stringv1.pdb
