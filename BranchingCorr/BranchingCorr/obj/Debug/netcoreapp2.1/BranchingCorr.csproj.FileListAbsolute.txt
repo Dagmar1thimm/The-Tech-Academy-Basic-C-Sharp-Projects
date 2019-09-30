@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\obj\Debug\netcoreapp2.1\BranchingCorr.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\obj\Debug\netcoreapp2.1\BranchingCorr.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\obj\Debug\netcoreapp2.1\BranchingCorr.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\obj\Debug\netcoreapp2.1\BranchingCorr.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\bin\Debug\netcoreapp2.1\BranchingCorr.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\bin\Debug\netcoreapp2.1\BranchingCorr.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\bin\Debug\netcoreapp2.1\BranchingCorr.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\bin\Debug\netcoreapp2.1\BranchingCorr.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\bin\Debug\netcoreapp2.1\BranchingCorr.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\obj\Debug\netcoreapp2.1\BranchingCorr.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingCorr\BranchingCorr\obj\Debug\netcoreapp2.1\BranchingCorr.pdb
