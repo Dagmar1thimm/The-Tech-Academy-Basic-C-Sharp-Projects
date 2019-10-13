@@ -11,16 +11,17 @@ namespace String
             string timezone = "CET";
             string action = "lives";
 
-            Console.WriteLine("Hello, " + name  + " who " + action + " in the " + timezone + "?");
+            Console.WriteLine("Hello, " + name + " who " + action + " in the " + timezone + "?");
+            Console.ReadLine();
 
-            
             name = "Dagmar";
             timezone = "CET";
             action = "lives";
             name = name.ToUpper();
+            action = action.ToUpper();
             Console.WriteLine("Hello, " + name + " who " + action + " in the " + timezone + "?");
+            Console.ReadLine();
 
-            
 
         }
 
