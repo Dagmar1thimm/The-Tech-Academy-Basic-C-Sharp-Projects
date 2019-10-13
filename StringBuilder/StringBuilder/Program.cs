@@ -2,32 +2,34 @@
 using System.Text;
 
 namespace StringBuilder
+
+
 {
-    class StringBuilder
+    class Program
     {
-        static void Main()
+        static void Main(string[] args)
        
             {
 
-                //string name = "Dagmar";
-                //string timezone = "CET";
-                //string action = "lives";
-
-                //Console.WriteLine("Hello, " + name + " who " + action + " in the " + timezone + "?");
-                //Console.Read();
-
             StringBuilder sb = new StringBuilder();
-            sb.Append("Dagmar");
-            sb.Append("lives");
-            sb.Append("in");
-            sb.Append("CET");
-
-            Console.WriteLine(sb.ToString());
-           
-
-
+            {
+                sb.Append("Dagmar");
+                name = sb.ToString();
 
             }
+            Console.WriteLine(name);
+            Console.ReadKey();
+                
+
+
+
+            //StringBuilder sb = new StringBuilder("Dagmar lives in CET timezone");
+            
+            //Console.WriteLine(sb);
+            Console.ReadLine();
+
+
+        }
        
     }
 }
