@@ -24,7 +24,7 @@ namespace BoolLogic
 
             if (DUI == 0)
             {
-                Console.WriteLine("false");
+                Console.WriteLine("true");
                 Console.ReadLine();
             }
 
@@ -36,13 +36,13 @@ namespace BoolLogic
 
             if (speedticket <= 3)
             {
-                Console.WriteLine("false");
+                Console.WriteLine("true");
                 Console.ReadLine();
             }
 
             Console.WriteLine("Qualified?");
-            bool result = (true && false && false);
-            Console.WriteLine("true");
+            bool result = (true && true && true);
+            Console.WriteLine(result);
             Console.ReadLine();
 
 
