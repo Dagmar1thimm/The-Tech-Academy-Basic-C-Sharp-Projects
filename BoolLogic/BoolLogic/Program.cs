@@ -4,28 +4,68 @@ namespace BoolLogic
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("What is your age?");
-            int Age = 17;
-            Console.WriteLine(Age);
-            int Age = Convert.ToInt32(Console.ReadLine());
+            int age = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Have you ever had a DUI? true or false");
-            bool DUI = Convert.ToBoolean(Console.ReadLine());
 
-            
+            if (age > 15)
+            {
+                Console.WriteLine("true");
+                Console.ReadLine();
+            }
+
+            Console.WriteLine("Have you ever had a DUI?");
+
+
+            int DUI = Convert.ToInt32(Console.ReadLine());
+
+
+            if (DUI == 0)
+            {
+                Console.WriteLine("false");
+                Console.ReadLine();
+            }
+
 
             Console.WriteLine("How many speeding tickets do you have?");
-            int speedTicket = 2;
-            Console.WriteLine(speedTicket);
-            int speedTicket = Convert.ToInt32(Console.ReadLine());
+
+            int speedticket = Convert.ToInt32(Console.ReadLine());
+
+
+            if (speedticket <= 3)
+            {
+                Console.WriteLine("false");
+                Console.ReadLine();
+            }
 
             Console.WriteLine("Qualified?");
-            bool isQualified = (Age > 15 && DUI == false && speedTicket <=3);
-            Console.WriteLine(isQualified);
+            bool result = (true && false && false);
+            Console.WriteLine("true");
             Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //Console.WriteLine("Qualified?");
+            //bool isQualified = (age > 15 && DUI == false && speedTicket <=3);
+            //Console.WriteLine(isQualified);
+            //Console.ReadLine();
 
         }
     }
 }
+
