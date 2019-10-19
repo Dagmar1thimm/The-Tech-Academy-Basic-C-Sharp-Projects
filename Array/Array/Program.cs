@@ -11,7 +11,7 @@ namespace Array
           
             string [] name = new string [5] { "Frank", "Beth", "Juan" , "Dave", "Leila" };
 
-            Console.WriteLine("Enter your name:");
+            Console.WriteLine("Enter your number between 0-4:");
             int myName = int.Parse(Console.ReadLine());
             Console.WriteLine("Your name is: " + name[myName]);
 
@@ -19,20 +19,19 @@ namespace Array
 
             int[] number = { 4, 3, 9, 1, 2 };
             
-            Console.WriteLine("Which number do you prefer?");
+            Console.WriteLine("Enter your number between 0 - 4:");
             int index = int.Parse(Console.ReadLine());
 
+
             
-
-
-            if (index <= number.Length)
+            if (index < number.Length && index >= 0)
             {
                 Console.WriteLine("Your preferd number is: " + number[index]);
             }
 
-            if (index > number.Length)
+            else 
             {
-                Console.WriteLine("Wrong entry, Please enter a lower number" + number[index]);
+                Console.WriteLine("Wrong entry, Please enter a lower number");
             }
             Console.ReadLine();
 
@@ -41,7 +40,7 @@ namespace Array
             intList.Add("John");
             intList.Add("Leila");
 
-            Console.WriteLine("Enter your friend:");
+            Console.WriteLine("Enter your number 0-2:");
             int friend = int.Parse(Console.ReadLine());
             Console.WriteLine("Your friend is: " + intList[friend]);
         }
