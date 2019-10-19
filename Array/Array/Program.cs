@@ -6,39 +6,44 @@ namespace Array
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            string[] strArr = new string[] { "Fred", "Steve", "Carla", "Curt", "Julia" };
-            Console.WriteLine("Who is the expert for coding in your perspective?");
+          
+            string [] name = new string [5] { "Frank", "Beth", "Juan" , "Dave", "Leila" };
 
-
-            Console.WriteLine(strArr[3]);
-            Console.ReadLine();
-
-
-
-
-            int[] numArr = { 4, 3, 9, 1, 2 };
-            int i = 3;
-            Console.WriteLine("Which number do you prefer?");
-            Console.WriteLine(numArr[i]);
-            Console.ReadLine();
+            Console.WriteLine("Enter your name:");
+            int myName = int.Parse(Console.ReadLine());
+            Console.WriteLine("Your name is: " + name[myName]);
 
             
-            i = 7;
-            if (i > numArr.Length)
-     
-               {
-                Console.WriteLine("Wrong entry, Please enter a lower number");
+
+            int[] number = { 4, 3, 9, 1, 2 };
+            
+            Console.WriteLine("Which number do you prefer?");
+            int index = int.Parse(Console.ReadLine());
+
+            
+
+
+            if (index <= number.Length)
+            {
+                Console.WriteLine("Your preferd number is: " + number[index]);
+            }
+
+            if (index > number.Length)
+            {
+                Console.WriteLine("Wrong entry, Please enter a lower number" + number[index]);
             }
             Console.ReadLine();
 
             List<string> intList = new List<string>();
-            intList.Add ("Hi");
+            intList.Add ("Hans");
             intList.Add("John");
             intList.Add("Leila");
-            Console.WriteLine(intList[2]);
-            Console.ReadLine();
+
+            Console.WriteLine("Enter your friend:");
+            int friend = int.Parse(Console.ReadLine());
+            Console.WriteLine("Your friend is: " + intList[friend]);
         }
 
         }
