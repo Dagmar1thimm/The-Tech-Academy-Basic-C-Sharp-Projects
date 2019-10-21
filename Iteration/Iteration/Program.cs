@@ -12,33 +12,19 @@ namespace Iteration
 
             //Question 1
             string[] fruits = { "banana", "apple", "cherry", "dattes", "blueberries" };
+
             Console.WriteLine("Please enter your evaluation of the various fruits: ");
-          
+
+            string name = Console.ReadLine();
+            Console.WriteLine("User input is: " + name);
 
             for (int index = 0; index < fruits.Length; index++)
             {
-                if (index == 0)
-                {
-                    Console.WriteLine("My preference is: " + fruits[0]);
-                }
-                else if (index == 1)
-                {
-                    Console.WriteLine("A nice fruit is: " + fruits[1]);
-                }
-                else if (index == 2)
-                {
-                    Console.WriteLine("In spring, you can buy: " + fruits[2]);
-                }
-                else if (index == 3)
-                {
-                    Console.WriteLine("This fruit is awesome: " + fruits[3]);
-                }
-                else 
-                {
-                    Console.WriteLine("The most healthy fruit is: " + fruits[4]);
-                }
+
+                    Console.WriteLine("My preference is: " + fruits[index] + name);
+
             }
-            
+
             Console.ReadLine();
 
             //Question 2
@@ -56,15 +42,14 @@ namespace Iteration
             }
             Console.ReadLine();
 
-            //Question 4
+            ////Question 4
             int[] age = { 34, 24, 90, 45, 67, 65, 56, 50 };
             for (int a = 0; a < age.Length; a++)
             {
-                if (age[a] < 50)
+               if (age[a] < 50)
                 {
                     Console.WriteLine("Your are young: " + age[a]);
                 }
-                
             }
             Console.ReadLine();
 
@@ -77,7 +62,7 @@ namespace Iteration
                     {
                         Console.WriteLine("You scored high: " + scores[b]);
                     }
-                
+
                 }
             Console.ReadLine();
 
@@ -85,83 +70,78 @@ namespace Iteration
             //Question 6
             List<string> cats = new List<string>() { "cat1", "cat2", "cat3", "cat4", "cat5" };
 
-           
+
             Console.WriteLine("Chose cat: ");
-            Console.WriteLine(Console.ReadLine());
+            string animal = Console.ReadLine();
+            bool outList = false;
 
-            
-                int catIndex = cats.FindIndex(a => a.Contains("cat1"));
-                Console.WriteLine("My cat: " + catIndex);
+            for (int i = 0; i < cats.Count; i++)
+            {
 
-                catIndex = cats.FindIndex(a => a.Contains("cat2"));
-                Console.WriteLine("My cat: " + catIndex);
+                if (animal == cats[i])
+                {
+                    outList = true;
+                    Console.WriteLine(i);
+                    //break; //Question 8
+                }
+            }
+            Console.WriteLine(outList);
 
-                catIndex = cats.FindIndex(a => a.Contains("cat3"));
-                Console.WriteLine("My cat: " + catIndex);
-
-                catIndex = cats.FindIndex(a => a.Contains("cat4"));
-                Console.WriteLine("My cat: " + catIndex);
-
-                catIndex = cats.FindIndex(a => a.Contains("cat5"));
-                Console.WriteLine("My cat: " + catIndex);
-
-            // if (catIndex < cats.Count)
-            // {
-            //     Console.WriteLine(Console.ReadLine()[catIndex]);
-            // }
 
             //Question 7
-            //else
-            // {
-            //     Console.WriteLine("Choice is outside the List!");
-            // }
-            // Console.ReadLine();
+            if (outList == false)
+            {
+                Console.WriteLine("Choice is outside the List!");
+            }
+            Console.ReadLine();
 
-            //Question 8
-            //???
 
             //Question 9
 
-            List<string> weekDays = new List<string>{ "Monday", "Tuesday", "Monday", "Friday", "Thursday" };
+            List<string> weekDays = new List<string> { "Monday", "Tuesday", "Monday", "Friday", "Thursday" };
+
+            Console.WriteLine("Which day is today: ");
+            string choice = Console.ReadLine();
+
+            bool outSide = false;
 
             for (int j = 0; j < weekDays.Count; j++)
-            {
-                if (weekDays[j] == "Monday")
-                Console.WriteLine(weekDays[j]);
-            }
-            Console.ReadLine();
+                {
+                    if (choice == weekDays[j])
+                    {
+                        outSide = true;
+                        Console.WriteLine(j);
+                    }
+                    
+                }
+                Console.WriteLine(outSide);
 
-            //Question 10
-            //if (j > weekDays.Count)
-            //{
-            //    Console.WriteLine("Not in the list");
-            //}
+                //Question 10
+                if (outSide == false)
+                {
+                   Console.WriteLine("Not in the list");
+                }
+                Console.ReadLine();
 
-            //Question 11
-            List<string> cities = new List<string> { "Portland", "Berlin", "Dallas", "London", "Berlin" };
+                //Question 11
 
-            int cityPos = cities.Count;
+                List<string> cities = new List<string> { "Portland", "Berlin", "Dallas", "London", "Berlin" };
+                List<string> uniqueCities = new List<string>{ };
+ 
+                foreach (string city in cities)
+                {
+                    if (uniqueCities.Contains(city))
+                    {
+                        Console.WriteLine("This city is already appeared: " + city);
+                    }
 
-            foreach (string city in cities)
-            {
-                cityPos = cities.FindIndex(a => a.Contains("Portland"));
-                Console.WriteLine("I have never been there ", cityPos);
+                    else
+                    {
+                        uniqueCities.Add(city);
+                    }
 
-                cityPos = cities.FindIndex(a => a.Contains("Berlin"));
-                Console.WriteLine("Double in the List " + cityPos);
-
-                cityPos = cities.FindIndex(a => a.Contains("Dallas"));
-                Console.WriteLine("It was a nice short trip ", cityPos);
-
-                cityPos = cities.FindIndex(a => a.Contains("London"));
-                Console.WriteLine("One of the most important places is ", cityPos);
-
-                cityPos = cities.FindIndex(a => a.Contains("Berlin"));
-                Console.WriteLine("Double in the List ", cityPos);
-            }
-            Console.ReadLine();
-
-
+                }
+                Console.ReadLine();
         }
     }
 }
