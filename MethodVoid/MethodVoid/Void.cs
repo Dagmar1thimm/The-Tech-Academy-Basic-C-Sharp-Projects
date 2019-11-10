@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Method
+namespace MethodVoid
 {
-    public class VoidM
+    class Void
     {
         public void Math(int x, int y)
         {
@@ -13,6 +13,5 @@ namespace Method
             Console.WriteLine("My number: " + y);
         }
 
-       
     }
 }

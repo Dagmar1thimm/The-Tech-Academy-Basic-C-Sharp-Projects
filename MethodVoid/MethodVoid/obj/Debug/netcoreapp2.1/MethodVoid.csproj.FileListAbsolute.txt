@@ -1,0 +1,4 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodVoid\MethodVoid\obj\Debug\netcoreapp2.1\MethodVoid.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodVoid\MethodVoid\obj\Debug\netcoreapp2.1\MethodVoid.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodVoid\MethodVoid\obj\Debug\netcoreapp2.1\MethodVoid.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodVoid\MethodVoid\obj\Debug\netcoreapp2.1\MethodVoid.AssemblyInfo.cs
