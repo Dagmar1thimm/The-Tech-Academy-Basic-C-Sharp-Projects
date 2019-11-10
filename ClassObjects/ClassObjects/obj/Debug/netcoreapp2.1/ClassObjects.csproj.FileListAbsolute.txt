@@ -1,0 +1,4 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.AssemblyInfo.cs
