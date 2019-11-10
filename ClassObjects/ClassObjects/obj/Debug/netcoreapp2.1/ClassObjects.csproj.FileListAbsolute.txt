@@ -2,3 +2,10 @@ C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObj
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.csproj.CoreCompileInputs.cache
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.AssemblyInfoInputs.cache
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.1\ClassObjects.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.1\ClassObjects.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.1\ClassObjects.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.1\ClassObjects.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\bin\Debug\netcoreapp2.1\ClassObjects.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassObjects\ClassObjects\obj\Debug\netcoreapp2.1\ClassObjects.pdb

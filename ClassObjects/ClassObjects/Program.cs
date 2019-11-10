@@ -11,7 +11,8 @@ namespace ClassObjects
             int x = Convert.ToInt32(Console.ReadLine());
 
             Operations results = new Operations();
-            Console.WriteLine("My addition: " + results.addition + "My substraction:  " + results.substraction + "My multiplication: " + results.multiplication);
+
+            Console.WriteLine("My addition: " + results.Addition(x) + " My substraction:  " + results.Substraction(x) + " My multiplication: " + results.Multiplication(x));
 
             Console.ReadLine();
 

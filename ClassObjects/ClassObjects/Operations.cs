@@ -8,16 +8,27 @@ namespace ClassObjects
    public class Operations 
 
     {
-        public int addition;
-        public int substraction;
-        public int multiplication;
-        public Operations()
+        public int Addition (int x)
         {
-            addition = x + 2;
-            substraction = x - 2;
-            multiplication = x * 2;
-            return;
+            int results = x + 2;
+            
+            return results;
         }
+
+       public int Substraction (int x)
+        {
+            int results = x - 2;
+
+            return results;
+        }
+        
+        public int Multiplication (int x)
+        {
+            int results = x * 2;
+
+            return results;
+        }
+
         
     }
 }
