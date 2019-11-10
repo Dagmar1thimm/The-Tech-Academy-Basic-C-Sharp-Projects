@@ -4,21 +4,15 @@ using System.Text;
 
 namespace Method
 {
-    class VoidM
+    public class VoidM
     {
-        public void Math(int x)
+        public void Math(int x, int y)
         {
-            int results = x + 2;
+            int results = x + y;
 
-            return;
+            Console.WriteLine("My number: " + results);
         }
 
-        public void Screen(int y)
-        {
-            int results = y;
-
-            return;
-        }
-
+       
     }
 }

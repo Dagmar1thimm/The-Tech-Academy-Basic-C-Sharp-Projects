@@ -2,3 +2,10 @@ C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\M
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp2.1\Method.csproj.CoreCompileInputs.cache
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp2.1\Method.AssemblyInfoInputs.cache
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp2.1\Method.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp2.1\Method.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp2.1\Method.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp2.1\Method.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp2.1\Method.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp2.1\Method.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp2.1\Method.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp2.1\Method.pdb
