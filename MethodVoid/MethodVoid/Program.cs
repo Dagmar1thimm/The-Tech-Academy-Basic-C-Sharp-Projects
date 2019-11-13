@@ -7,10 +7,10 @@ namespace MethodVoid
     {
         static void Main(string[] args)
         {
-        public int x = 5;
-        public int y = 6;
+        int x = 5;
+       int y = 6;
 
-        VoidM math1 = new VoidM();
+        Void math1 = new Void();
         math1.Math(x, y);
         }
     }
