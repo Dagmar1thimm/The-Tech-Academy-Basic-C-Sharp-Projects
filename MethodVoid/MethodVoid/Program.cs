@@ -11,7 +11,7 @@ namespace MethodVoid
        int y = 6;
 
         Void math1 = new Void();
-        math1.Math(x, y);
+        math1.Math(x: 5, y: 6);
         }
     }
 }
