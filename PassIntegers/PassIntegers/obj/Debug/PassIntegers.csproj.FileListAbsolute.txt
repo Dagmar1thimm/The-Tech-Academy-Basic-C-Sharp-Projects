@@ -1,0 +1,7 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PassIntegers\PassIntegers\obj\Debug\PassIntegers.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PassIntegers\PassIntegers\obj\Debug\PassIntegers.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PassIntegers\PassIntegers\bin\Debug\PassIntegers.exe.config
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PassIntegers\PassIntegers\bin\Debug\PassIntegers.exe
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PassIntegers\PassIntegers\bin\Debug\PassIntegers.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PassIntegers\PassIntegers\obj\Debug\PassIntegers.exe
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PassIntegers\PassIntegers\obj\Debug\PassIntegers.pdb

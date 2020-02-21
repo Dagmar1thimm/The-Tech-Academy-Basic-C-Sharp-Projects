@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\bin\Debug\netcoreapp2.1\MethodDecimal.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\bin\Debug\netcoreapp2.1\MethodDecimal.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\bin\Debug\netcoreapp2.1\MethodDecimal.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\bin\Debug\netcoreapp2.1\MethodDecimal.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\bin\Debug\netcoreapp2.1\MethodDecimal.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\obj\Debug\netcoreapp2.1\MethodDecimal.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\obj\Debug\netcoreapp2.1\MethodDecimal.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\obj\Debug\netcoreapp2.1\MethodDecimal.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\obj\Debug\netcoreapp2.1\MethodDecimal.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\obj\Debug\netcoreapp2.1\MethodDecimal.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDecimal\MethodDecimal\obj\Debug\netcoreapp2.1\MethodDecimal.pdb
