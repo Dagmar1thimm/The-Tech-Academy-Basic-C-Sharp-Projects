@@ -8,10 +8,11 @@ namespace PassIntegers
 {
     class Class1
     {
-
-        public int Substraction(int x)
+        public int num1;
+        public int num2;
+        public int Substraction()
         {
-            int results = x - 2;
+            int results = num1 - num2;
 
             return results;
         }

@@ -1,0 +1,4 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.AssemblyInfo.cs
