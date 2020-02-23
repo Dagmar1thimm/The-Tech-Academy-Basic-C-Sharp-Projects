@@ -10,19 +10,21 @@ namespace PassIntegers
     {
         static void Main()
         {
+            int val1 = 1;
+            int val2 = 2;
 
-            Console.WriteLine("Please insert the first integer for math: ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-           
+            Class1 myThing = new Class1();
 
-            Class1 results = new Class1();
+            myThing.myMethod(1, 2);
 
-            Console.WriteLine("Here is the math with the first number " + results.Substraction());
+            myThing.myMethod(val1, val2);
 
-            Console.WriteLine("Here is the second number " + Convert.ToInt32(Console.ReadLine()));
-
-            Console.ReadLine();
         }
+
+    }
+    
+
+    
        
     }
-}
+

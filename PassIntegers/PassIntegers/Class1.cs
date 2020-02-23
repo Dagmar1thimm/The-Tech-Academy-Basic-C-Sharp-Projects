@@ -6,15 +6,24 @@ using System.Threading.Tasks;
 
 namespace PassIntegers
 {
-    class Class1
+    public class Class1
     {
-        public int num1;
-        public int num2;
-        public int Substraction()
-        {
-            int results = num1 - num2;
+        public void myMethod (int num1, int num2)
 
-            return results;
+        {
+
+            int val = num1 + 2*num1;
+
+            Console.WriteLine("Parameter 2 is: " + num2);
+
+            Console.WriteLine("The operation result is: " + val);
+
+            Console.ReadLine();
+
         }
-    }     
+
+
+    }
+  
+ 
 }
