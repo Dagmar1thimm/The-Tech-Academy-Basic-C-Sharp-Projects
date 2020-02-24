@@ -6,14 +6,29 @@ namespace OutParameter1
 {
     class Operations
     {
-        public void Div(int x)
+            public static void myDoing(int num1)
+
+            {
+
+                int val = num1 / 2;
+
+                Console.WriteLine("The operation result is: " + val);
+
+                Console.ReadLine();
+
+            }
+
+        public static void myDoing(float num1)
+
         {
 
-           int results = x / 2;
+            float val = (num1) / 2;
 
-      }
+            Console.WriteLine("The operation result is: " + val);
 
+            Console.ReadLine();
 
-
+        }
     }
+   
 }

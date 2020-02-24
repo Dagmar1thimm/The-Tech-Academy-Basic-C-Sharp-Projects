@@ -2,3 +2,10 @@ C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParam
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.csproj.CoreCompileInputs.cache
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.AssemblyInfoInputs.cache
 C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\bin\Debug\netcoreapp2.1\OutParameter1.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\bin\Debug\netcoreapp2.1\OutParameter1.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\bin\Debug\netcoreapp2.1\OutParameter1.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\bin\Debug\netcoreapp2.1\OutParameter1.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\bin\Debug\netcoreapp2.1\OutParameter1.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutParameter1\OutParameter1\obj\Debug\netcoreapp2.1\OutParameter1.pdb
