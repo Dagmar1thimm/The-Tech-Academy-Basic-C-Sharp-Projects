@@ -6,19 +6,19 @@ namespace OutParameter1
 {
     class Operations
     {
-            public static void myDoing(int num1)
+        public void myDoing(int num1)
 
-            {
+        {
 
-                int val = num1 / 2;
+            int val = num1 / 2;
 
-                Console.WriteLine("The operation result is: " + val);
+            Console.WriteLine("The operation result is: " + val);
 
-                Console.ReadLine();
+            Console.ReadLine();
 
-            }
+        }
 
-        public static void myDoing(float num1)
+        public void myDoing(float num1)
 
         {
 

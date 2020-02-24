@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\obj\Debug\netcoreapp2.1\InheriStaffAbstr.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\obj\Debug\netcoreapp2.1\InheriStaffAbstr.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\obj\Debug\netcoreapp2.1\InheriStaffAbstr.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\bin\Debug\netcoreapp2.1\InheriStaffAbstr.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\bin\Debug\netcoreapp2.1\InheriStaffAbstr.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\bin\Debug\netcoreapp2.1\InheriStaffAbstr.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\bin\Debug\netcoreapp2.1\InheriStaffAbstr.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\bin\Debug\netcoreapp2.1\InheriStaffAbstr.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\obj\Debug\netcoreapp2.1\InheriStaffAbstr.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\obj\Debug\netcoreapp2.1\InheriStaffAbstr.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriStaffAbstr\InheriStaffAbstr\obj\Debug\netcoreapp2.1\InheriStaffAbstr.pdb
