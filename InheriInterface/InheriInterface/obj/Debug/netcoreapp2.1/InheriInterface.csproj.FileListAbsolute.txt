@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\bin\Debug\netcoreapp2.1\InheriInterface.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\bin\Debug\netcoreapp2.1\InheriInterface.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\bin\Debug\netcoreapp2.1\InheriInterface.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\bin\Debug\netcoreapp2.1\InheriInterface.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\bin\Debug\netcoreapp2.1\InheriInterface.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\obj\Debug\netcoreapp2.1\InheriInterface.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\obj\Debug\netcoreapp2.1\InheriInterface.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\obj\Debug\netcoreapp2.1\InheriInterface.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\obj\Debug\netcoreapp2.1\InheriInterface.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\obj\Debug\netcoreapp2.1\InheriInterface.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheriInterface\InheriInterface\obj\Debug\netcoreapp2.1\InheriInterface.pdb

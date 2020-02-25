@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\bin\Debug\netcoreapp2.1\GenericEmployee.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\bin\Debug\netcoreapp2.1\GenericEmployee.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\bin\Debug\netcoreapp2.1\GenericEmployee.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\bin\Debug\netcoreapp2.1\GenericEmployee.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\bin\Debug\netcoreapp2.1\GenericEmployee.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\obj\Debug\netcoreapp2.1\GenericEmployee.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\obj\Debug\netcoreapp2.1\GenericEmployee.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\obj\Debug\netcoreapp2.1\GenericEmployee.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\obj\Debug\netcoreapp2.1\GenericEmployee.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\obj\Debug\netcoreapp2.1\GenericEmployee.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericEmployee\GenericEmployee\obj\Debug\netcoreapp2.1\GenericEmployee.pdb

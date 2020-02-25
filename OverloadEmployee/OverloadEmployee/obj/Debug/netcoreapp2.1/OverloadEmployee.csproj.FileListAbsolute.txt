@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\bin\Debug\netcoreapp2.1\OverloadEmployee.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\bin\Debug\netcoreapp2.1\OverloadEmployee.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\bin\Debug\netcoreapp2.1\OverloadEmployee.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\bin\Debug\netcoreapp2.1\OverloadEmployee.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\bin\Debug\netcoreapp2.1\OverloadEmployee.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\obj\Debug\netcoreapp2.1\OverloadEmployee.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\obj\Debug\netcoreapp2.1\OverloadEmployee.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\obj\Debug\netcoreapp2.1\OverloadEmployee.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\obj\Debug\netcoreapp2.1\OverloadEmployee.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\obj\Debug\netcoreapp2.1\OverloadEmployee.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadEmployee\OverloadEmployee\obj\Debug\netcoreapp2.1\OverloadEmployee.pdb
