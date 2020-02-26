@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\bin\Debug\netcoreapp2.1\EnumDay.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\bin\Debug\netcoreapp2.1\EnumDay.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\bin\Debug\netcoreapp2.1\EnumDay.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\bin\Debug\netcoreapp2.1\EnumDay.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\bin\Debug\netcoreapp2.1\EnumDay.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\obj\Debug\netcoreapp2.1\EnumDay.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\obj\Debug\netcoreapp2.1\EnumDay.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\obj\Debug\netcoreapp2.1\EnumDay.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\obj\Debug\netcoreapp2.1\EnumDay.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\obj\Debug\netcoreapp2.1\EnumDay.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EnumDay\EnumDay\obj\Debug\netcoreapp2.1\EnumDay.pdb
