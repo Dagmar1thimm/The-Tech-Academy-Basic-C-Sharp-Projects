@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\bin\Debug\netcoreapp2.1\LambdaEmployee.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\bin\Debug\netcoreapp2.1\LambdaEmployee.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\bin\Debug\netcoreapp2.1\LambdaEmployee.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\bin\Debug\netcoreapp2.1\LambdaEmployee.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\bin\Debug\netcoreapp2.1\LambdaEmployee.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\obj\Debug\netcoreapp2.1\LambdaEmployee.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\obj\Debug\netcoreapp2.1\LambdaEmployee.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\obj\Debug\netcoreapp2.1\LambdaEmployee.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\obj\Debug\netcoreapp2.1\LambdaEmployee.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\obj\Debug\netcoreapp2.1\LambdaEmployee.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\LambdaEmployee\obj\Debug\netcoreapp2.1\LambdaEmployee.pdb

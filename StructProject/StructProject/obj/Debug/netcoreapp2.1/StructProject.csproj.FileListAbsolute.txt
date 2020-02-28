@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\bin\Debug\netcoreapp2.1\StructProject.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\bin\Debug\netcoreapp2.1\StructProject.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\bin\Debug\netcoreapp2.1\StructProject.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\bin\Debug\netcoreapp2.1\StructProject.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\bin\Debug\netcoreapp2.1\StructProject.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\obj\Debug\netcoreapp2.1\StructProject.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\obj\Debug\netcoreapp2.1\StructProject.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\obj\Debug\netcoreapp2.1\StructProject.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\obj\Debug\netcoreapp2.1\StructProject.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\obj\Debug\netcoreapp2.1\StructProject.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructProject\StructProject\obj\Debug\netcoreapp2.1\StructProject.pdb
