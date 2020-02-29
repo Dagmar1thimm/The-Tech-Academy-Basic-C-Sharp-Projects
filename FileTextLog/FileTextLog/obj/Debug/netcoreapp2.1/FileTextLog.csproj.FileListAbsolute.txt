@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\obj\Debug\netcoreapp2.1\FileTextLog.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\obj\Debug\netcoreapp2.1\FileTextLog.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\obj\Debug\netcoreapp2.1\FileTextLog.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\obj\Debug\netcoreapp2.1\FileTextLog.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\bin\Debug\netcoreapp2.1\FileTextLog.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\bin\Debug\netcoreapp2.1\FileTextLog.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\bin\Debug\netcoreapp2.1\FileTextLog.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\bin\Debug\netcoreapp2.1\FileTextLog.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\bin\Debug\netcoreapp2.1\FileTextLog.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\obj\Debug\netcoreapp2.1\FileTextLog.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FileTextLog\FileTextLog\obj\Debug\netcoreapp2.1\FileTextLog.pdb

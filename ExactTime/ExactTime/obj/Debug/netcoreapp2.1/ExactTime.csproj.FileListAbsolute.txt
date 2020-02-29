@@ -1,0 +1,10 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\bin\Debug\netcoreapp2.1\ExactTime.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\bin\Debug\netcoreapp2.1\ExactTime.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\bin\Debug\netcoreapp2.1\ExactTime.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\bin\Debug\netcoreapp2.1\ExactTime.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\bin\Debug\netcoreapp2.1\ExactTime.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\obj\Debug\netcoreapp2.1\ExactTime.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\obj\Debug\netcoreapp2.1\ExactTime.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\obj\Debug\netcoreapp2.1\ExactTime.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\obj\Debug\netcoreapp2.1\ExactTime.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExactTime\ExactTime\obj\Debug\netcoreapp2.1\ExactTime.pdb

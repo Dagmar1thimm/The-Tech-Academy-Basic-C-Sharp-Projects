@@ -1,0 +1,11 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\bin\Debug\netcoreapp2.1\ConstVar.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\bin\Debug\netcoreapp2.1\ConstVar.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\bin\Debug\netcoreapp2.1\ConstVar.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\bin\Debug\netcoreapp2.1\ConstVar.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\bin\Debug\netcoreapp2.1\ConstVar.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\obj\Debug\netcoreapp2.1\ConstVar.csprojAssemblyReference.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\obj\Debug\netcoreapp2.1\ConstVar.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\obj\Debug\netcoreapp2.1\ConstVar.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\obj\Debug\netcoreapp2.1\ConstVar.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\obj\Debug\netcoreapp2.1\ConstVar.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstVar\ConstVar\obj\Debug\netcoreapp2.1\ConstVar.pdb

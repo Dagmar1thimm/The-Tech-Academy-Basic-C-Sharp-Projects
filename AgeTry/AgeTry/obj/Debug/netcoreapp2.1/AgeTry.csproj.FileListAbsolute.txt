@@ -1,0 +1,10 @@
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\bin\Debug\netcoreapp2.1\AgeTry.deps.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\bin\Debug\netcoreapp2.1\AgeTry.runtimeconfig.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\bin\Debug\netcoreapp2.1\AgeTry.runtimeconfig.dev.json
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\bin\Debug\netcoreapp2.1\AgeTry.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\bin\Debug\netcoreapp2.1\AgeTry.pdb
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\obj\Debug\netcoreapp2.1\AgeTry.csproj.CoreCompileInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\obj\Debug\netcoreapp2.1\AgeTry.AssemblyInfoInputs.cache
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\obj\Debug\netcoreapp2.1\AgeTry.AssemblyInfo.cs
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\obj\Debug\netcoreapp2.1\AgeTry.dll
+C:\Users\dagma\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AgeTry\AgeTry\obj\Debug\netcoreapp2.1\AgeTry.pdb
